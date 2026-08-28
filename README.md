@@ -1,5 +1,7 @@
 Telco Customer Churn Analysis
+
 Overview
+
 This project focuses on analyzing customer churn for a telecommunications company. The main objective is to clean the raw customer dataset, calculate key performance indicators (KPIs), and explore the underlying factors contributing to customer attrition using Google Sheets.
 
 Dataset Summary
