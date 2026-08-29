@@ -141,6 +141,15 @@ To quantify the financial value of deploying the Logistic Regression model:
 * **Financial Net Value:** Retaining ~80 customers annually recovers **$62,400 in annual recurring revenue**, yielding a **300%+ ROI** relative to campaign execution costs.
 
 ---
+## Power BI Dashboard Preview
+
+### 1. Interactive Dashboard Overview
+![Power BI Dashboard Overview](overview.png)
+
+### 2. High-Risk Segment Analysis (Fiber Optic & Month-to-Month)
+![Power BI Dashboard Filtered](churn-filtered.png)
+
+
 
 ## 6. Production Deployment Architecture (CRM Integration)
 
@@ -165,10 +174,3 @@ Automated Email:       Customer Success Call:
 "Switch to Autopay     "Contract Upgrade Offer"
 & Save $10/mo"
 Payment Method: Customers using Electronic check as their payment method display a noticeably higher tendency to churn compared to those using automated payment methods (bank transfers or credit cards).
-## Power BI Dashboard Preview
-
-### 1. Interactive Dashboard Overview
-![Power BI Dashboard Overview](dashboard_overview.png)
-
-### 2. High-Risk Segment Analysis (Fiber Optic & Month-to-Month)
-![Power BI Dashboard Filtered](dashboard_filtered.png)
